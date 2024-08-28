@@ -1,0 +1,54 @@
+.main{max-width: 95%;
+padding-left: 60px;}
+
+.ab{margin-left: 20px;
+padding-right: 70px;}
+
+.logo{padding-right: 30px;
+    padding-left: 20px;
+    height:40px; width:90px; }
+
+    .btn{width: 150px;}
+
+    .crd{
+    margin-top: 50px;
+}
+.speaker{padding-right: 100px;}
+.heading{margin-left: 30px;}
+
+.card-text{
+    font-weight: 500;
+}
+.btn2{width: 200px;
+margin-top: 30px;}
+
+.imglink{height: 50px;
+width: 1500px;
+padding-left: 200px;
+margin-top: 60px;}
+
+.service{display: flex;
+padding-top: 60px;
+padding-bottom: 50px;
+}
+.service p{margin-left: 50px;
+font-size: 20px;}
+
+.crd2{padding-top: 50px;}
+h4{background-color: greenyellow;
+width:170px;
+text-align: center;}
+
+.twocard{display: flex;
+margin-left: 200px;}
+.crdss{
+margin-left: 100px;}
+
+.headingtwo{background-color: white;}
+
+.consultant{width: 800px;
+}
+
+span{font-size: 30px;}
+
+.twoo{margin-top: 50px;}
